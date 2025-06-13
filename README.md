@@ -1,1 +1,3 @@
-# programming-exercises
+# Programming Exercises
+
+Compilation of programming exercises.
